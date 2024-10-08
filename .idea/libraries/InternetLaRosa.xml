@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InternetLaRosa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/InternetLaRosa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
